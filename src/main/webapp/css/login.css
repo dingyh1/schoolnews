@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.bodydiv{
+	width: auto;
+	height: 410px;
+	padding-top: 40px;
+	background-color: #E0E4E8;
+}
+.main-div{
+	width: 250px;
+	height: 300px;
+	background-color:#ffffff;
+	
+	margin: auto;
+}
+.main-div span{
+	position: relative;
+	top: 20px;
+	left: 93px;
+	
+}
